@@ -4,3 +4,7 @@
 @import "_vendor.css";
 @import "_global.css";
 @import "_overall.css";
+
+/* COMPONENTS */
+@import "./components/_header.css";
+@import "./components/_hero.css";
